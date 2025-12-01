@@ -1,4 +1,3 @@
-<img width="1357" height="1239" alt="image" src="https://github.com/user-attachments/assets/6d932599-4d4b-4684-99e3-dd946e02ca34" />
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sulthan-saladin-ramadhana-sulun-465205294) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sulthansulun04@gmail.com) 
 
